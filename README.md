@@ -1,5 +1,7 @@
 # Flexbox Layout
 
+<img src="imgTela.png" alt="Flexbox">
+
 Este é um projeto simples que demonstra o uso do Flexbox para criar um layout em HTML e CSS.
 
 ## Estrutura do Projeto
